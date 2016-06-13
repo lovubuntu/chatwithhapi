@@ -1,0 +1,15 @@
+{
+  "name": "chatserver",
+  "version": "1.0.0",
+  "description": "Simple Chat server implemented in Hapi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabu",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.4.1",
+    "inert": "^4.0.0"
+  }
+}
