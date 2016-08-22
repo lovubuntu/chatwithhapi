@@ -1,1 +1,1 @@
-This is a Chat application using HapiJs
+This is a Chat application using HapiJs.
